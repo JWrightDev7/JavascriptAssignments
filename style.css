@@ -1,0 +1,136 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 10px;
+}
+
+body{
+    width: 939px;
+    margin: 0 auto;
+    background-color: #121212;
+    color: white;
+}
+
+.accordion-panel,
+.tab-panel{
+    display: none;
+}
+
+.accordion-panel.active,
+.tab-panel.active{
+    display: block;
+}
+
+header{
+    margin: 0 auto;
+    text-align: center;
+    padding: 1em;
+}
+
+h1{
+    font-size: 3.2em;
+    background-color: #121212;
+}
+
+ul{
+    margin: 2em 0;
+    width: 50%;
+}
+
+ul button{
+    width: 100%;
+    padding: .5em;
+    border: 1px solid #232f34;
+    background-color: #344955;
+    color: white;
+    font-size: 1.8em;
+}
+
+ul button:hover,
+ul button:active{
+    background-color: #232f34;
+}
+
+ul li{
+    list-style-type: none;
+}
+
+ul li div{
+    font-size: 1.8em;
+    padding: 1em;
+}
+
+ul li div ul li{
+    font-size: 1.8em;
+}
+.collab{
+    width: 100%;
+}
+
+.list{
+    width: 100%;
+}
+
+.list li{
+    list-style-type: circle;
+    padding: .3em;
+}
+
+.accordions{
+    display: flex;  
+}
+
+.accordions ul{
+    margin: 1em;
+}
+
+.tabs{
+    width: 100%;
+    padding: 2em 0;
+    height: 50em;
+}
+
+.tab-panel{
+    margin: 1em;
+    padding: 1em 0;
+}
+
+.tab-list{
+    width: 100%;
+    display: flex;
+    margin: 1em;
+    margin-top: 2em;
+}
+
+.tab-list li{
+    list-style-type: none;
+}
+
+.tab-list li a{
+    text-decoration: none;
+    text-align: center;
+    font-size: 1.2em;
+    color: white;
+    background-color: #344955;
+    border: 1px solid #232f34;
+    padding: 1.5em;
+}
+
+
+footer{
+    clear: both;
+    margin: 0 auto;
+    text-align: center;
+}
+
+footer div{
+    width: 75%;
+    margin: 0 auto;
+    text-align: left;
+}
+
+footer div ul{
+    width: 100%;
+    margin: .5em auto;
+    text-align: center;
+}
