@@ -1,0 +1,40 @@
+#london-wrapper, #windsor-wrapper{
+    display: none;
+    height: 500px;
+}
+
+.modal {
+    position: absolute;
+    z-index: 1000;
+    background-color: gray;
+    padding: 45px;
+    border: 3px solid orange;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.modal-close{
+    margin: 5px;
+    text-align: center;
+    outline: none;
+    padding: 5px;
+    border: 3px solid darkorange;
+    border-radius: 20px;
+    background-color: rgb(255, 182, 47);
+    width: 200px;
+    cursor: pointer;
+}
+
+.credit{
+    text-align: center;
+}
+
+ul li{
+    list-style-type: none;
+}
+
+h4{
+    margin-top: 5px;
+    margin-bottom: 0;
+    text-align: center;
+}
