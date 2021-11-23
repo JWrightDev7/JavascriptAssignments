@@ -1,0 +1,66 @@
+{
+    "characters":
+    [
+        {
+            "name": "Jake Peralta",
+            "job": "Detective",
+            "episodes": 153,
+            "actor": "Andy Samberg"
+        },
+        {
+            "name": "Rosa Diaz",
+            "job": "Detective",
+            "episodes": 153,
+            "actor": "Stephanie Beatriz"
+        },
+        {
+            "name": "Terry Jeffords",
+            "job": "Lieutenant",
+            "episodes": 153,
+            "actor": "Terry Crews"
+        },
+        {
+            "name": "Amy Santiago",
+            "job": "Police Sargent",
+            "episodes": 153,
+            "actor": "Melissa Fumero"
+        },
+        {
+            "name": "Charles Boyle",
+            "job": "Detective",
+            "episodes": 153,
+            "actor": "Joe Lo Trugilo"
+        },
+        {
+            "name": "Raymond Holt",
+            "job": "Captain",
+            "episodes": 153,
+            "actor": "Andre Braugher"
+        },
+        {
+            "name": "Hitchcock",
+            "job": "Detective",
+            "episodes": 152,
+            "actor": "Dirk Blocker"
+        },
+        {
+            "name": "Sully",
+            "job": "Detective",
+            "episodes": 152,
+            "actor": "Joel McKinnnon Miller"
+        },
+        {
+            "name": "Doug Judy",
+            "job": "Criminal",
+            "episodes": 9,
+            "actor": "Craig Robinson"
+        },
+        {
+            "name": "Adrian Pimento",
+            "job": "Detective",
+            "episodes": 11,
+            "actor": "Jason Mantzoukas"
+        }
+    ]
+    
+}

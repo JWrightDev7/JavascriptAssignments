@@ -1,0 +1,41 @@
+.found{
+    background-color: yellow;
+    color: black;
+}
+
+.episodes, .job{
+    text-align: center;
+}
+
+.actor{
+    text-align: end;
+}
+
+td, th{
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid gray;
+    background-color: transparent;
+}
+
+td.name{
+    border-radius: 5px 0 0 5px;
+}
+td.actor{
+    border-radius: 0 5px 5px 0;
+}
+
+th:first-of-type{
+    border-radius: 5px 0 0 5px;
+}
+th:last-of-type{
+    border-radius: 0 5px 5px 0;
+}
+
+table{
+    padding: 5px;
+    background-color: lightgray;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    margin: 5px 0;
+}
