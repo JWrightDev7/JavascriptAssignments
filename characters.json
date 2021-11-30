@@ -1,0 +1,76 @@
+{
+    "characters":
+    [
+        {
+            "name": "Jake Peralta",
+            "job": "Detective",
+            "episodes": 153,
+            "actor": "Andy Samberg",
+            "date": "1978-08-18"
+        },
+        {
+            "name": "Rosa Diaz",
+            "job": "Detective",
+            "episodes": 153,
+            "actor": "Stephanie Beatriz",
+            "date": "1981-02-10"
+        },
+        {
+            "name": "Terry Jeffords",
+            "job": "Lieutenant",
+            "episodes": 153,
+            "actor": "Terry Crews",
+            "date": "1968-07-30"
+        },
+        {
+            "name": "Amy Santiago",
+            "job": "Police Sargent",
+            "episodes": 153,
+            "actor": "Melissa Fumero",
+            "date": "1982-08-19"
+        },
+        {
+            "name": "Charles Boyle",
+            "job": "Detective",
+            "episodes": 153,
+            "actor": "Joe Lo Trugilo",
+            "date": "1970-12-02"
+        },
+        {
+            "name": "Raymond Holt",
+            "job": "Captain",
+            "episodes": 153,
+            "actor": "Andre Braugher",
+            "date": "1962-07-01"
+        },
+        {
+            "name": "Hitchcock",
+            "job": "Detective",
+            "episodes": 152,
+            "actor": "Dirk Blocker",
+            "date": "1957-07-31"
+        },
+        {
+            "name": "Sully",
+            "job": "Detective",
+            "episodes": 152,
+            "actor": "Joel McKinnnon Miller",
+            "date": "1960-02-21"
+        },
+        {
+            "name": "Doug Judy",
+            "job": "Criminal",
+            "episodes": 9,
+            "actor": "Craig Robinson",
+            "date": "1971-10-25"
+        },
+        {
+            "name": "Adrian Pimento",
+            "job": "Detective",
+            "episodes": 11,
+            "actor": "Jason Mantzoukas",
+            "date": "1972-12-18"
+        }
+    ]
+    
+}
