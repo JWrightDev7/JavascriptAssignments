@@ -2,10 +2,6 @@ $(function(){
     $('#nameSearch').val("");
     $.getJSON("characters.json").done(function(data){
         var names = [];
-        var jobs = [];
-        var episodes = [];
-        var aNames = [];
-        var aBirth = [];
         var sortedNamesAM = [];
         var sortedNamesNZ = [];
         $.each(data.characters, function(index, value){
@@ -18,11 +14,6 @@ $(function(){
                     <td class="date">${value.date}</td>
                 </tr>
             `);
-            names.push(value.name);
-            jobs.push(value.job);
-            episodes.push(value.episodes);
-            aNames.push(value.actor);
-            aBirth.push(value.date);
         });
         function sortNamesAM(names){
             var re = /^[a-mA-M]/;
