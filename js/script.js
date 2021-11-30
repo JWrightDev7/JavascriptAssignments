@@ -14,6 +14,8 @@ $(function(){
                     <td class="date">${value.date}</td>
                 </tr>
             `);
+            names.push(value.name);
+
         });
         function sortNamesAM(names){
             var re = /^[a-mA-M]/;
