@@ -80,11 +80,13 @@ button {
 
 button.disabled {
 	background-color: rgba(255, 0, 0, 0.5);
+	cursor: not-allowed;
 }
 
 button.enabled {
 	background-color: rgba(0, 128, 0, 0.5);
 	border: 2px solid rgba(0, 128, 0, 1);
+	cursor: pointer;
 }
 
 div#welcome {
